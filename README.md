@@ -1,3 +1,12 @@
+1 instalar python
+2 istalar vscode 
+3 descargar el repositorio
+4 abrir vscode
+5 abrir la ternminal 
+6 ejecutar .\autoexe
+Y DISFRUTE DE SU ACTIVIDAD ACTUALIZADA 
+
+
 
 <img src="static/images/LogoGrupo43_Uninorte.jpg"><h1>Grupo43</h1>
 ### Contenido python + Flask
